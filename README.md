@@ -16,7 +16,9 @@ Review practical aspects of productionizing ML services — from training and ex
 - Web service: model deployment with Flask
 - Streaming: consuming events with AWS Kinesis and Lambda
 - Batch: scoring data offline
-5. Monitoring web services with Prometheus, Evidently, and Grafana and Monitoring batch jobs with Prefect, MongoDB, and Evidently
+5. Monitoring web services and batch jobs
+- Monitoring web services with Prometheus, Evidently, and Grafana  
+- Monitoring batch jobs with Prefect, MongoDB, and Evidently
 6. Best Practices
 - Testing: unit, integration
 - Python: linting and formatting
